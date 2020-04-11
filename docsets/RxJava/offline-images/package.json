@@ -9,7 +9,12 @@
   "dependencies": {
     "async": "^2.0.0-rc.3",
     "fs-walk": "0.0.1",
+
     "mkdirp": "^0.5.1",
     "request": "^2.88.2"
+
+    "mkdirp": "^0.5.5",
+    "request": "^2.70.0"
+depfu/update/docsetsRxJavaoffline-images/npm/request-2.88.2
   }
 }
